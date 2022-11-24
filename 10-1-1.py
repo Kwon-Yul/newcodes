@@ -1,0 +1,5 @@
+def sub(x,y):
+    return x-y
+    
+print("200 - 100 = {}".format(sub(200,100)))
+
